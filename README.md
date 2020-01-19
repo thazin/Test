@@ -67,6 +67,11 @@ Please make sure to update tests as appropriate.
 #text in grey
 ```
 
+```
+-Hello
++world
+```
+
 ```diff
 -text
 +word
