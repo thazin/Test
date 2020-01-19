@@ -67,9 +67,10 @@ Please make sure to update tests as appropriate.
 #text in grey
 ```
 
-```
+```diff
 -Hello
 +world
+#HelloWorld
 ```
 
 ```diff
